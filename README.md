@@ -1,4 +1,4 @@
-# My class projects on "Algorithms and Complexity" in Democritus University of Thrace
+# My class projects on "Algorithms and Complexity" at Democritus University of Thrace
 Professor: Pavlos Efraimidis
 
 keywords: java, social networks, social influence, PageRank, DeGroot, wisdom of the crowd, centralities, Nash equilibrium
